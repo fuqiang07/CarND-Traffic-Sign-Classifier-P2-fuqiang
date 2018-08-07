@@ -151,4 +151,10 @@ The code for making predictions on my final model is located in the 11th cell of
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
+Acknowledgements:
+During this project, I get many great ideas from the following Github repositories and websites and I would like to express my gratitude to them:
+* https://github.com/jeremy-shannon/CarND-Traffic-Sign-Classifier-Project
+* https://github.com/Goddard/udacity-traffic-sign-classifier
+* https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad
+
 
